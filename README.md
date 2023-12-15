@@ -1,6 +1,6 @@
 
 # Reeco
-<img src="./src/Components/Screenshot (473).png" height="100" width="180">
+<img src="Screenshot (473).png" height="100" width="180">
 
 
 ## For Deploying
