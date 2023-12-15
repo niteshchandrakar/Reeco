@@ -1,5 +1,5 @@
 # Reeco
-<img src="https://github.com/niteshchandrakar/Reeco/blob/main/src/Components/Screenshot%20(473).png" height="100" width="180">
+<img src="./src/Components/Screenshot%20(473).png" height="100" width="180">
 
 
 ## For Deploying
@@ -20,7 +20,7 @@
 
 
 ### EditPage
-<img src="https://github.com/niteshchandrakar/Reeco/blob/main/src/Components/Screenshot%20(474).png" />
+<img src="./src/Components/Screenshot%20(474).png" />
 
 
 ### How to run the Project
