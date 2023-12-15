@@ -1,5 +1,5 @@
 # Reeco
-<img src="./src/Images/Money_Mentor_logo.png" height="100" width="180">
+<img src="https://github.com/niteshchandrakar/Reeco/blob/main/src/Components/Screenshot%20(473).png" height="100" width="180">
 
 
 ## For Deploying
@@ -7,7 +7,7 @@
 
 
 
-- Live preview : https://money-mentor.netlify.app/
+- Live preview : https://reeeeecooo.netlify.app/
 
 
 # Features
@@ -20,7 +20,7 @@
 
 
 ### EditPage
-<img src="./src/Images/homepage.png" />
+<img src="https://github.com/niteshchandrakar/Reeco/blob/main/src/Components/Screenshot%20(474).png" />
 
 
 ### How to run the Project
@@ -31,7 +31,7 @@ Follow the following steps to get development environment running.
 * Clone repository from GitHub
 
   bash
-  git clone https://github.com/KrishnaVaishnav98/vogue-pocket-8479
+  git clone https://github.com/niteshchandrakar/Reeco
   
 
   
